@@ -26,7 +26,7 @@
 
 - Link to Assignment 1: [**Assignment 1**](https://github.com/mzdero00/mzdero-app/blob/main/assignments/Prva%20vjezba.mp4) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](https://github.com/mzdero00/mzdero-app/blob/main/assignments/DrugaVjezba.md) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+- Link to Assignment 3: [**Assignment 3**](https://repo1-4snnhn93t-marins-projects-1659f737.vercel.app/login) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
