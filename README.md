@@ -27,7 +27,9 @@
 - Link to Assignment 1: [**Assignment 1**](https://github.com/mzdero00/mzdero-app/blob/main/assignments/Prva%20vjezba.mp4) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](https://github.com/mzdero00/mzdero-app/blob/main/assignments/DrugaVjezba.md) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](https://repo1-liard.vercel.app) <!-- Replace with actual URL -->
+- Link to Assignment 4: [**Assignment 4**](https://github.com/mzdero00/mzdero-app/blob/main/assignments/CetvrtaVjezba.md) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
+
 
 ## Project Requirements
 
