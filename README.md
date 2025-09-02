@@ -20,7 +20,7 @@
 
 - Link to your production version: [**Production Version**](https://cayenne-mocha.vercel.app/) <!-- Replace with actual URL -->
 - Link to GitHub repo production version: [**GithubREPO**](https://github.com/mzdero00/cayenne)
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to your final report: [**Final Report**]((https://thin-dietician-b05.notion.site/HCI-cayenne-26207eadc04d80f3a277ef6db84382f3)) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
